@@ -16,5 +16,4 @@
   <img align="center" alt="icon-React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </h1>
 
-![Snake animation](https://github.com/igorgabriell32/igorgbariell32/blob/output/github-contribution-grid-snake.svg
 
